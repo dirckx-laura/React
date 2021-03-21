@@ -14,3 +14,9 @@ Extra's completed:
 - [ ] Add a toggle button that lets you sort the moves in either ascending or descending order.
 - [ ] When someone wins, highlight the three squares that caused the win.
 - [ ] When no one wins, display a message about the result being a draw.
+
+**Counter-app**<br/>
+Assignment:<br/>
+Tutorial: making a counter-app from YouTube tutorial.
+https://www.youtube.com/watch?v=Ke90Tje7VS0
+
