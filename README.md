@@ -1,7 +1,7 @@
 # React
 Free time - experiments with React - source always included in Readme.md
 
-**Shoppinglist**<br/>
+**Tictactoe**<br/>
 Assignment:<br/>
 Tutorial: Intro to React from React website.
 https://reactjs.org/tutorial/tutorial.html
